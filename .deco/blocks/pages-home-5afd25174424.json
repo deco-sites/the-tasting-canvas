@@ -7,8 +7,8 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
-      "description": "This text is entirely editable, tailor it freely."
+      "title": "<div style=\"position: relative; display: inline-block;\">\r\n        <img src=\"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10626/ca0706e3-44c2-4471-b831-d65fb140f9ac\" alt=\"Imagem\" style=\"display: block;\">\r\n        <div style=\"position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: black; font-size: 32px; font-weight: bold;\">\r\n            The Tasting Canvas\r\n        </div>\r\n</div>",
+      "description": "As an enthusiastic home cook, I bring you a diverse array of dishes that celebrate the joy of cooking without the need for professional training."
     },
     {
       "__resolveType": "site/sections/MainPost.tsx",
